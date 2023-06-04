@@ -176,7 +176,8 @@ would be the color that they have to be. It could be something random, but good
 names make for semantic code. So let's give the outermost div the id red.
 
 ```html
-<div id="red">...</div>
+<div id="red">..
+  .</div>
 ```
 
 To give that id some CSS attributes we'll go into `main.css`, select the id, and
